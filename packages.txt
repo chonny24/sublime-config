@@ -1,0 +1,8 @@
+Package Controll
+
+GitGutter
+
+SublimeLinter
+  SublimeLinter-contrib-standard
+
+Sunrise Theme
