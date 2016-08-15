@@ -1,4 +1,4 @@
-Package Controll
+Package Control
 
 GitGutter
 
