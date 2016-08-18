@@ -6,3 +6,4 @@ SublimeLinter
   SublimeLinter-contrib-standard
 
 Sunrise Theme
+  Go into the theme file, and change the value for the "selection" key to #770055 (makes the highlight purple instead of Invisi-Blue (tm))
